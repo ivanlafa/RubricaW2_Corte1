@@ -6,7 +6,6 @@ import { Footer } from './components/Footer';
 import { Nav } from './components/Nav';
 import { Overview } from './components/Overview';
 import { loadData } from './helpers/loadData';
-import "./styles/App.css"
 
 function App() {
   const deportes = loadData();
