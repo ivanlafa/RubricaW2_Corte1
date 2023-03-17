@@ -19,11 +19,12 @@ export const Footer = () => {
           </div>
 
           <div className="col-xs-6 col-md-3">
-            <h6>DESARROLLADOR</h6>
+            <h6>DESARROLLADORES</h6>
             <ul className="footer-links">
               <li>
                 <b>Ivan Lafaurie</b>
                 <br />
+                <b>Carlos Berdugo</b>
               </li>
               <li>Ingenieria de sistemas</li>
               <li>8 Semestre</li>
@@ -38,7 +39,7 @@ export const Footer = () => {
         <div className="row">
           <div className="col-md-8 col-sm-6 col-xs-12">
             <p className="copyright-text">
-              Copyright &copy; 2023 All Rights Reserved by <a href="/#" target={"_blank"}>Ivan Lafaurie</a>.
+              Copyright &copy; 2023 All Rights Reserved by <a href="/#" target={"_blank"}>Ivan Lafaurie,Carlos Berdugo</a>.
             </p>
           </div>
 
